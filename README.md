@@ -3,7 +3,7 @@ Author : Soon Hyeok Park, Kyoungok Kim(coressponding author)
 
 Paper Link : https://link.springer.com/article/10.1007/s12652-023-04647-0
 
-Experiment Code upload
+The first author uploads the experimental code for this study through this repository.
 
 ## Comparison results of the proposed similarity measures : MAE
 
