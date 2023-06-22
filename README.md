@@ -7,12 +7,13 @@ Experiment Code upload
 
 ## Comparison results of the proposed similarity measures : MAE
 
-![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/a21ce9c5-f95c-42db-9071-b74885825167)
+![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/2e7cc9dd-d000-469d-a1ce-55c31f46bd16)
 
 
 ## Comparison results of the proposed similarity measures : F1
 
-![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/854d1ced-204f-4268-9749-16893a547374)
+![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/db29959d-4a5d-4f88-b723-254a63391b52)
+
 
 ## The scores to determine the best similarity
 
@@ -20,7 +21,8 @@ Experiment Code upload
 
 ##  Comparison results of Proposed Methodology and other similarities : MAE
 
-![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/fc6ffc5d-d3c1-4bcd-9838-179ff27b5adf)
+![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/9d70197a-8bec-4acf-8bcc-9497fdaf6cb7)
+
 
 ##  Comparison results of Proposed Methodology and other similarities : F1
 
