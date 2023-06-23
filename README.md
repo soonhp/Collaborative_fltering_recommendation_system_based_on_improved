@@ -40,3 +40,8 @@ items, the similarity between them is likely to be zero. In this case, it is imp
 ##  Comparison results of Proposed Methodology and other similarities : F1
 
 ![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/5f817bac-397c-45b5-8cec-223d13950e24)
+
+## Conclusion
+In terms of the MAE, F1-score, and computation time, RJAC_DUB was determined to be the best metric among the proposed candidates. 
+RJAC_DUB generally outperformed the other similarity measures in terms of MAE and F1-score.
+
