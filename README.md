@@ -13,10 +13,10 @@ The first author uploads the experimental code for this study through this repos
 
 ## Motivation
 The similarity measures proposed in this study are inspired by Rating_Jaccard (Ayub et al. 2020a). This study aims to address the following limitations of Rating_Jaccard. 
-1. In general, the similarity between two users is proportional to the number of co-rated items. However, Rating_Jaccard is inversely proportional to the number of co-rated items.
+1. In general, the similarity between two users is proportional to the number of co-rated items. However, Rating_Jaccard is inversely proportional to the number of co-rated items.
 2. Rating_Jaccard only enumerates co-rated items with identical ratings; thus, the similarity between users may be zero in more cases than for Jaccard similarity. Particularly, if two users have a small number of co-rated 
-items, the similarity between them is likely to be zero. In this case, it is impossible to distinguish them from a pair of users with zero co-rated items. Moreover, the overabundance of zero similarity values complicates the identifcation of a sufcient number of nearest neighbors, which increases the number of items whose ratings cannot be predicted during the prediction of ratings of unrated items.
-3. The rating behaviors of users vary widely. However, Rating_Jaccard does not consider this variability
+items, the similarity between them is likely to be zero. In this case, it is impossible to distinguish them from a pair of users with zero co-rated items. Moreover, the overabundance of zero similarity values complicates the identifcation of a sufcient number of nearest neighbors, which increases the number of items whose ratings cannot be predicted during the prediction of ratings of unrated items.
+3. The rating behaviors of users vary widely. However, Rating_Jaccard does not consider this variability
    
 ## Comparison results of the proposed similarity measures : MAE
 
