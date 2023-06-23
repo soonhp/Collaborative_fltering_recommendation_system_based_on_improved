@@ -47,6 +47,7 @@ items, the similarity between them is likely to be zero. In this case, it is imp
 
 
 
+
 ## Comparison results of the proposed similarity measures : MAE
 
 ![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/2e7cc9dd-d000-469d-a1ce-55c31f46bd16)
