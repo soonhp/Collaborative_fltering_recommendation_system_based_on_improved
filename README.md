@@ -44,4 +44,5 @@ items, the similarity between them is likely to be zero. In this case, it is imp
 ## Conclusion
 In terms of the MAE, F1-score, and computation time, RJAC_DUB was determined to be the best metric among the proposed candidates. 
 RJAC_DUB generally outperformed the other similarity measures in terms of MAE and F1-score.
-
+Moreover, RJAC_DUB was slower than the traditional similarity but the computation time did not increase signifcantly compared to  the other improved similarities.
+Furthermore, RJAC_DUB was superior to JacLMH for all the datasets and RJaccard for the large-size datasets in terms of calculation speed.
