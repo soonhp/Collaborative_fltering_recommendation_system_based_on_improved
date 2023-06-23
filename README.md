@@ -7,9 +7,9 @@ The first author uploads the experimental code for this study through this repos
 
 ## The main contributions of this study are summarized as follows:
 – We proposed strategies to address each limitation of Rating_Jaccard to obtain better extensions of Jaccard similarity.
-– We verifed the efectiveness of each proposed strategy in detail using several datasets and determined the best similarity among the proposed Jaccard similarity extensions, considering the prediction performance and computation time.
+– We verifed the efectiveness of each proposed strategy in detail using several datasets and determined the best similarity among the proposed Jaccard similarity extensions, considering the prediction performance and computation time.
 – RJAC_DUB, which was determined as the best similarity among the proposed ones in this study, considered the rating information and inherently users’ rating preference behavior in the similarity calculation.
-– Through extensive experiments based on various datasets, we demonstrated the superiority of the proposed similarity over existing variations of Jaccard similarity and other similarity measures.
+– Through extensive experiments based on various datasets, we demonstrated the superiority of the proposed similarity over existing variations of Jaccard similarity and other similarity measures.
 
 ## Comparison results of the proposed similarity measures : MAE
 
