@@ -17,7 +17,12 @@ The similarity measures proposed in this study are inspired by Rating_Jaccard (A
 2. Rating_Jaccard only enumerates co-rated items with identical ratings; thus, the similarity between users may be zero in more cases than for Jaccard similarity. Particularly, if two users have a small number of co-rated 
 items, the similarity between them is likely to be zero. In this case, it is impossible to distinguish them from a pair of users with zero co-rated items. Moreover, the overabundance of zero similarity values complicates the identifcation of a sufcient number of nearest neighbors, which increases the number of items whose ratings cannot be predicted during the prediction of ratings of unrated items.
 3. The rating behaviors of users vary widely. However, Rating_Jaccard does not consider this variability
-   
+
+## Proposed methodology
+#### RJAC_DUB
+
+![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/d78611a0-4839-4759-9bfd-4c95e856250b)
+
 ## Comparison results of the proposed similarity measures : MAE
 
 ![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/2e7cc9dd-d000-469d-a1ce-55c31f46bd16)
