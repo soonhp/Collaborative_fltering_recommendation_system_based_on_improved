@@ -28,7 +28,9 @@ items, the similarity between them is likely to be zero. In this case, it is imp
 #### RJAC_D)
 - Equation
 
-    ![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/0f682596-b90a-4c72-9fe2-4e157548c884)
+    ![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/6e306654-4d52-4ae6-8458-46064b422210)
+    ![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/49ae2c53-3f83-41f2-8d6d-4b5c82cf60f4)
+
 
 #### RJAC_DUB)
 - Equation
