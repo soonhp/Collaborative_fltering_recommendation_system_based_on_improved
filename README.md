@@ -29,6 +29,7 @@ items, the similarity between them is likely to be zero. In this case, it is imp
 - Equation
   
     ![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/d78611a0-4839-4759-9bfd-4c95e856250b)
+  
     ![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/c3bac712-1310-48d3-8e59-46adf8353e63)
 
 ## Comparison results of the proposed similarity measures : MAE
