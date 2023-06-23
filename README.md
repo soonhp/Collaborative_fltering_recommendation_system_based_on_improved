@@ -23,7 +23,8 @@ items, the similarity between them is likely to be zero. In this case, it is imp
 - Equation
 
   ![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/5248f0d7-faa2-4f13-ba38-5e5bd848be0e)
-  ![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/c3bac712-1310-48d3-8e59-46adf8353e63)
+  ![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/35b6ebc8-f3fd-48bd-a0f3-427eca73e6ee)
+
 
 #### RJAC_DUB
 - Equation
