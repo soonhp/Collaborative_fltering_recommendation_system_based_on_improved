@@ -35,12 +35,16 @@ items, the similarity between them is likely to be zero. In this case, it is imp
 #### RJAC_DUB)
 - Equation
   
-    ![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/d78611a0-4839-4759-9bfd-4c95e856250b)
+    ![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/4900791a-a5b2-49f2-a473-f6e7d17ea2d8)
+    ![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/3674a2db-7282-40a1-84f4-f8799d01af43)
+
 
 #### WRJAC_DUB)
 - Equation
+  
+    ![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/9ff39f48-af3d-488d-a005-cc94d7c1e451)
+    ![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/873e8c74-f982-43c1-9c05-384ba10f0e10)
 
-    ![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/2a670b07-7e77-49c3-8a34-897abc4a1d99)
 
 
 ## Comparison results of the proposed similarity measures : MAE
