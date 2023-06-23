@@ -19,10 +19,17 @@ items, the similarity between them is likely to be zero. In this case, it is imp
 3. The rating behaviors of users vary widely. However, Rating_Jaccard does not consider this variability
 
 ## Proposed methodology
+#### RJAC_U
+- Equation
+
+  ![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/5248f0d7-faa2-4f13-ba38-5e5bd848be0e)
+
+
 #### RJAC_DUB
 - Equation
   
     ![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/d78611a0-4839-4759-9bfd-4c95e856250b)
+    ![image](https://github.com/soonhp/Collaborative_fltering_recommendation_system_based_on_improved_Jaccard_similarity/assets/73877159/c3bac712-1310-48d3-8e59-46adf8353e63)
 
 ## Comparison results of the proposed similarity measures : MAE
 
