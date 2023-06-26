@@ -3,7 +3,7 @@ Author : Soon Hyeok Park, Kyoungok Kim(coressponding author)
 
 Paper Link : https://link.springer.com/article/10.1007/s12652-023-04647-0
 
-The first author uploads the experimental code for this study through this repository.
+The first author uploaded the experimental code for this study through this repository.
 
 ## The main contributions of this study are summarized as follows:
 - We proposed strategies to address each limitation of Rating_Jaccard to obtain better extensions of Jaccard similarity.
